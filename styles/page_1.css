@@ -109,6 +109,7 @@ hr {
 }
 #img_4 {
     margin-top: 1px;
+    min-width: 0%;
 }
 #div_img {
     position: absolute;
